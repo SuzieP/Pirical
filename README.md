@@ -8,8 +8,7 @@
 
 ### Gender Breakdown of all Candidates by Final Recruitment Stage Achieved 
 
-<iframe width="900" height="755" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>  
-
+<iframe width="600" height="700" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>  
 
 #### OBSERVATIONS
 
@@ -21,7 +20,7 @@
 * The observed gender ratio in candidates that were made an offer is: Female (109) to Male (90) to Prefer Not To Say (5)
 * Assuming zero gender bias this ratio should be: Female (120) to Male (78) to Prefer Not To Say (6)
 
-<iframe width="900" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
+<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 
 ###### Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness? Let's explore.
 
