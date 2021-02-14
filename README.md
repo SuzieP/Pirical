@@ -1,6 +1,5 @@
 # Pirical ___ Make Smarter People Decisions
 
-### Let's dive into the analytics of your recruitment process
 ###### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
 ###### [Is there gender bias in the recruitment process? Who does it favor? Where does it start?](#gender-bias)
 ###### [What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?](#pre-screening-verbal-reasoning-test-scores)
@@ -48,5 +47,13 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
     <iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
   
 ### Proposed Solutions
-  
+
+Statistical tests show that the gender bias in the recruitment process starts at the 'Assessment' stage of hiring. At that stage a lot more females are getting rejected that is expected: this snowballs into the 1.38 bias towards men over women at the offer stage. 
+What does this mean? Time to change the assessment process.  
+
+Notice how the pre-screening verbal reasoning test has no inherent gender bias but also no predictive power in filtering successful from unsuccessful candidates. 
+What if the pre-screening verbal reasoning test became a more powerful player in the recruitment process?
+Using gender-neutral, predictive analytics to correlate the test scores of past and present hires to their performance evaluations while on the job we can screen for the parts of the test that most predict on-the-job success.
+
+Let's upgrade a tool we already have into a powerful tool for selecting the best candidates and promoting gender fairness.
 
