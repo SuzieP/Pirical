@@ -4,7 +4,7 @@
 ###### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
 ###### [Is there gender bias in the recruitment process? Who does it favor? Where does it start?](#gender-bias)
 ###### [What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?](#pre-screening-verbal-reasoning-test-scores)
-###### What are the next steps?
+###### [What are the next steps?](#proposed-solutions)
 
 ### Gender Breakdown of all Candidates
 
@@ -47,5 +47,6 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
   - The test does not predict the candidate's success in the recruitment process.
     <iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
   
+### Proposed Solutions
   
 
