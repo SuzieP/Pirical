@@ -1,6 +1,10 @@
 # Pirical ___ Make Smarter People Decisions
 
-### Let's dive into the analytics of your recruitment process.
+### Let's dive into the analytics of your recruitment process
+###### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
+###### Is there gender bias in the recruitment process? Who does it favor? Where does it start?
+###### What is the predictive power of the pre-screening verbal reasoning test?
+###### How can I promote gender fairness during recruitment?
 
 ### Gender Breakdown of all Candidates by Final Recruitment Stage Achieved 
 
