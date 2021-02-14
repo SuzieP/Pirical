@@ -28,7 +28,7 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 * Assessment Stage : Significant gender bias favoring males and discriminating against females.
 * Interview Stage : Significant gender bias favoring females over males. 
 * Offer Stage: Significant gender bias favoring males over females with males being 1.38 times more likely to get an offer than females.
-
+<img src="https://github.com/SuzieP/Pirical/blob/main/male%20to%20female%20icons.png">
 
 
 
