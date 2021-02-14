@@ -22,7 +22,13 @@
 
 <iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 
-###### Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness? Let's explore.
+***Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness?***
+Statistical tests confirm that the disparity in the ratios is a sign of gender bias and identify the following biases per stage: 
+* Screening Stage : No significant gender bias 
+* Assessment Stage : Significant gender bias favoring males and discriminating against females.
+* Interview Stage : Significant gender bias favoring females over males. 
+* Offer Stage: Significant gender bias favoring males over females with males being 1.38 times more likely to get an offer than females.
+
 
 
 
