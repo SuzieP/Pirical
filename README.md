@@ -8,9 +8,10 @@
 
 ### Gender Breakdown of all Candidates by Final Recruitment Stage Achieved 
 
-<iframe width="900" height="955" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
+<iframe width="900" height="755" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>  
 
-####OBSERVATIONS
+
+#### OBSERVATIONS
 
 * Way more female candidates go through the graduate program's recruitment process: approximately 64 males go through recruitment for every 100 females.
 * The exact gender ratio of candidates for years 2016 to 2019 is: Female (59) to Male (38) to Prefer not to say (3).
@@ -20,7 +21,7 @@
 * The observed gender ratio in candidates that were made an offer is: Female (109) to Male (90) to Prefer Not To Say (5)
 * Assuming zero gender bias this ratio should be: Female (120) to Male (78) to Prefer Not To Say (6)
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 
 ###### Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness? Let's explore.
 
