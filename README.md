@@ -18,20 +18,22 @@
 * The observed gender ratio in candidates that were made an offer is: Female (109) to Male (90) to Prefer Not To Say (5)
 * Assuming zero gender bias this ratio should be: Female (120) to Male (78) to Prefer Not To Say (6)
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>, <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
 
 ***Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness?***
-Statistical tests confirm that the disparity in the ratios is a sign of gender bias and identify the following biases per stage: 
+
+Statistical tests confirm that the disparity in the ratios is a sign of gender bias and identify the following biases per stage:
 * Screening Stage : No significant gender bias 
 * Assessment Stage : Significant gender bias favoring males and discriminating against females.
 * Interview Stage : Significant gender bias favoring females over males. 
-* Offer Stage: Significant gender bias favoring males over females with males being 1.38 times more likely to get an offer than females.
+* Offer Stage: Significant gender bias favoring males over females.
 
+***How much more likely is a male candidate to receive an offer than his female counterpart?***
 
+<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>
 
-
-
-
+<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/36.embed"></iframe>
 
 ### Pre-Screening Verbal Reasoning Test Scores
 
