@@ -1,11 +1,11 @@
-## Make Smarter People Decisions
+## Make Smarter People Decisions During Recruitment
 
-##### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
-##### [Is there gender bias in the recruitment process? Who does it favor? Where does it start?](#gender-bias)
-##### [What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?](#pre-screening-verbal-reasoning-test-scores)
-##### [What are the next steps?](#proposed-solutions)
+##### [Gender Breakdown](#what-is-the-gender-breakdown-of-the-candidates-throughout-the-recruitment-process)
+##### [Gender Bias](#is-there-gender-bias-in-the-recruitment-process-who-does-it-favor-where-does-it-start)
+##### [Pre-screening Verbal Reasoning Test](#what-is-the-predictive-power-of-the-pre-screening-verbal-reasoning-test-on-future-recruitment-success)
+##### [What are the next steps?](#what-can-we-do)
 
-### Gender Breakdown of all Candidates
+### What is the gender breakdown of the candidates throughout the recruitment process?
 
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>  
 
@@ -13,9 +13,11 @@
 
 * Way more female candidates go through the graduate program's recruitment process: approximately 64 males go through recruitment for every 100 females.
 
-### Gender Bias
+### Is there gender bias in the recruitment process? Who does it favor? Where does it start?
 
-**Gender Ratios at the Offer Stage**
+
+**Gender Ratios at the Offer Stage**  
+
 Actual: Female (109) to Male (90) to Prefer Not To Say (5)
 Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
 
@@ -36,7 +38,7 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/36.embed"></iframe>
 
-### Pre-Screening Verbal Reasoning Test Scores
+### What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?
 
 <iframe width="800" height="800" src="https://public.tableau.com/views/TestScorebyYear/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
 
@@ -48,7 +50,7 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
    * The test does not predict the candidate's success in the recruitment process.
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
   
-### Proposed Solutions
+### What can we do?
 
 Statistical tests show that the gender bias in the recruitment process starts at the 'Assessment' stage of hiring.  
 At that stage a lot more females are getting rejected than is expected: this snowballs into the 1.38 bias favoring men over women at the offer stage.  
