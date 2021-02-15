@@ -1,9 +1,9 @@
 ## Make Smarter People Decisions
 
-###### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
-###### [Is there gender bias in the recruitment process? Who does it favor? Where does it start?](#gender-bias)
-###### [What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?](#pre-screening-verbal-reasoning-test-scores)
-###### [What are the next steps?](#proposed-solutions)
+##### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
+##### [Is there gender bias in the recruitment process? Who does it favor? Where does it start?](#gender-bias)
+##### [What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?](#pre-screening-verbal-reasoning-test-scores)
+##### [What are the next steps?](#proposed-solutions)
 
 ### Gender Breakdown of all Candidates
 
@@ -14,8 +14,9 @@
 
 ### Gender Bias
 
-* The observed gender ratio in candidates that were made an offer is: Female (109) to Male (90) to Prefer Not To Say (5)
-* Assuming zero gender bias this ratio should be: Female (120) to Male (78) to Prefer Not To Say (6)
+**Gender Ratios**
+* Actual: Female (109) to Male (90) to Prefer Not To Say (5)
+* Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
