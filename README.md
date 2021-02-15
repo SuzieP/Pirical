@@ -30,6 +30,8 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 
 ***How much more likely is a male candidate to receive an offer than his female counterpart?***
 
+<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/38.embed"></iframe>
+
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/36.embed"></iframe>
 
 ### Pre-Screening Verbal Reasoning Test Scores
