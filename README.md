@@ -48,10 +48,13 @@ approximately 64 males go through the recruitment process for every 100 females.
   
 ### What can we do?
 The gender bias against female candidates starts at the ‘Assessment’ stage of hiring and snowballs into a staggering 38% favor of men over women.
-###### Time to change the assessment process.  
+##### Time to change the assessment process.  
 
 ##### What if the pre-screening verbal reasoning test became a more powerful player in the recruitment process?  
-The pre-screening verbal reasoning test has no inherent gender bias but also no predictive power in filtering successful from unsuccessful candidates. We can correlate test performance of past and present hires to their subsequent performance evaluations and identify sections of the existing test that most predict on-the-job success. We will use this information to create a better and fairer assessment tool.
+The pre-screening verbal reasoning test has no inherent gender bias but also no predictive power in filtering successful from unsuccessful candidates. 
+
+##### Let's change this.  
+We can correlate test performance of past and present hires to their subsequent performance evaluations and identify sections of the existing test that most predict on-the-job success. We will use this information to create a better and fairer assessment tool.
 
 ##### The best part? 
 We can test the new assessment tool before even launching it with current hires to ensure that test scores are not affected by gender and that they correlate strongly to job performance.
