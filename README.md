@@ -1,4 +1,4 @@
-# Pirical ___ Make Smarter People Decisions
+## Make Smarter People Decisions
 
 ###### [What is the gender breakdown of candidates throughout the recruitment process?](#Gender-Breakdown-of-all-Candidates-by-Final-Recruitment-Stage-Achieved)
 ###### [Is there gender bias in the recruitment process? Who does it favor? Where does it start?](#gender-bias)
@@ -30,8 +30,6 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 
 ***How much more likely is a male candidate to receive an offer than his female counterpart?***
 
-<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>
-
 <iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/36.embed"></iframe>
 
 ### Pre-Screening Verbal Reasoning Test Scores
@@ -48,12 +46,18 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
   
 ### Proposed Solutions
 
-Statistical tests show that the gender bias in the recruitment process starts at the 'Assessment' stage of hiring. At that stage a lot more females are getting rejected that is expected: this snowballs into the 1.38 bias towards men over women at the offer stage. 
+Statistical tests show that the gender bias in the recruitment process starts at the 'Assessment' stage of hiring.  
+At that stage a lot more females are getting rejected than is expected: this snowballs into the 1.38 bias favoring men over women at the offer stage.  
+
 What does this mean? Time to change the assessment process.  
 
 Notice how the pre-screening verbal reasoning test has no inherent gender bias but also no predictive power in filtering successful from unsuccessful candidates. 
-What if the pre-screening verbal reasoning test became a more powerful player in the recruitment process?
-Using gender-neutral, predictive analytics to correlate the test scores of past and present hires to their performance evaluations while on the job we can screen for the parts of the test that most predict on-the-job success.
+What if the pre-screening verbal reasoning test became a more powerful player in the recruitment process?  
 
-Let's upgrade a tool we already have into a powerful tool for selecting the best candidates and promoting gender fairness.
+Using gender-neutral, predictive analytics to correlate the test scores of past and present hires to their subsequent performance evaluations we can identify the sections of the existing test that most predict on-the-job success and those who don't. 
+
+The best part? We can test the new assessment tool with tha data we already have by 
+
+Let's upgrade a tool we already have and use it in the assessment stage of recruitment as a powerful tool for selecting the best candidates and promoting gender fairness.
+
 
