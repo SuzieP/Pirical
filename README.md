@@ -7,7 +7,7 @@
 
 ### Gender Breakdown of all Candidates
 
-<iframe width="800" height="400" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>  
+<iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>  
 
 * Way more female candidates go through the graduate program's recruitment process: approximately 64 males go through recruitment for every 100 females.
 * The exact gender ratio of candidates for years 2016 to 2019 is: Female (59) to Male (38) to Prefer not to say (3).
