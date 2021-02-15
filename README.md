@@ -11,15 +11,15 @@
 
 ###### OBSERVATIONS  
 
-* Way more female candidates go through the graduate program's recruitment process: approximately 64 males go through recruitment for every 100 females.
+Way more female candidates go through the graduate program's recruitment process than male ones: How many?  
+Approximately 64 males go through recruitment for every 100 females.
 
 ### Is there gender bias in the recruitment process? Who does it favor? Where does it start?
 
 
 **Gender Ratios at the Offer Stage**  
-
-Actual: Female (109) to Male (90) to Prefer Not To Say (5)
-Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
+- Actual: Female (109) to Male (90) to Prefer Not To Say (5)
+- Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
@@ -27,10 +27,10 @@ Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
 ***Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness?***
 
 Statistical tests confirm that the disparity in the ratios is a sign of gender bias and identify the following biases per stage:
-* Screening Stage : No significant gender bias 
-* Assessment Stage : Significant gender bias favoring males over females.
-* Interview Stage : Significant gender bias favoring females over males. 
-* Offer Stage: Significant gender bias favoring males over females.
+1. Screening Stage : No significant gender bias 
+2. Assessment Stage : Significant gender bias favoring males over females.
+3. Interview Stage : Significant gender bias favoring females over males. 
+4. Offer Stage: Significant gender bias favoring males over females.
 
 ***How much more likely is a male candidate to receive an offer than his female counterpart?***
 
@@ -45,9 +45,11 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 ###### OBSERVATIONS  
 
 * The range of the test scores has stayed relatively constant across the years.
+
 * No gender bias in the pre-screening verbal reasoning test.  
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/34.embed"></iframe>  
-   * The test does not predict the candidate's success in the recruitment process.
+
+* The test does not predict the candidate's success in the recruitment process.
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
   
 ### What can we do?
