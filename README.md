@@ -7,7 +7,7 @@
 
 ### Gender Breakdown of all Candidates
 
-<iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>  
+<iframe width="800" height="400" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>  
 
 * Way more female candidates go through the graduate program's recruitment process: approximately 64 males go through recruitment for every 100 females.
 * The exact gender ratio of candidates for years 2016 to 2019 is: Female (59) to Male (38) to Prefer not to say (3).
@@ -30,7 +30,7 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 
 ***How much more likely is a male candidate to receive an offer than his female counterpart?***
 
-<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/36.embed"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/36.embed"></iframe>
 
 ### Pre-Screening Verbal Reasoning Test Scores
 
@@ -42,7 +42,7 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
     <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/34.embed"></iframe>  
    
   - The test does not predict the candidate's success in the recruitment process.
-    <iframe width="600" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
+    <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
   
 ### Proposed Solutions
 
