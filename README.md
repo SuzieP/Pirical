@@ -18,9 +18,8 @@ Approximately 64 males go through recruitment for every 100 females.
 
 
 ###### Gender Ratios at the Offer Stage  
-Actual: Female (109) to Male (90) to Prefer Not To Say (5)  
-Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
-
+Actual: Female [109] to Male [90] to Prefer Not To Say [5]  
+Ideal:  Female [120] to Male [78] to Prefer Not To Say [6]
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
 
