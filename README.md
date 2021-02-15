@@ -11,8 +11,7 @@
 
 #### OBSERVATIONS  
 
-##### More female candidates overall
-approximately 64 males go through the recruitment process for every 100 females.
+More female candidates overall: approximately 64 males go through the recruitment process for every 100 females.
 
 ### Is there gender bias in the recruitment process? Who does it favor? Where does it start?
 
