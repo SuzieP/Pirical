@@ -11,7 +11,7 @@
 
 ###### OBSERVATIONS  
 
-> More female candidates overall:  
+###### More female candidates overall:  
 > Approximately 64 males go through the recruitment process for every 100 females.
 
 ### Is there gender bias in the recruitment process? Who does it favor? Where does it start?
@@ -42,9 +42,9 @@
 <iframe width="800" height="600" src="https://public.tableau.com/views/TestScorebyYear/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
 ###### OBSERVATIONS  
 
-> The range of the test scores has stayed relatively constant across the years.
-> No gender bias in the pre-screening verbal reasoning test.  
-> The test does not predict the candidate's success in the recruitment process.
+>*  The range of the test scores has stayed relatively constant across the years.  
+>*  No gender bias in the pre-screening verbal reasoning test.  
+>*  The test does not predict the candidate's success in the recruitment process.
   
 ### What can we do?
 
