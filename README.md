@@ -59,4 +59,4 @@ We can correlate test performance of past and present hires to their subsequent 
 ##### The best part? 
 We can test the new assessment tool before even launching it with current hires to ensure that test scores are not affected by gender and that they correlate strongly to job performance.
 
-**Let's upgrade a tool we already have and use it in the assessment stage of recruitment as a powerful tool for selecting the best candidates and promoting gender fairness.**
+**Let's upgrade a valuable tool we already have to select the best candidates and promote gender fairness.**
