@@ -39,7 +39,7 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 
 ### What is the predictive power of the pre-screening verbal reasoning test on future recruitment success?
 
-<iframe width="800" height="800" src="https://public.tableau.com/views/TestScorebyYear/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
+<iframe width="800" height="600" src="https://public.tableau.com/views/TestScorebyYear/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
 ###### OBSERVATIONS  
 
 The range of the test scores has stayed relatively constant across the years.
