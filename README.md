@@ -51,7 +51,8 @@
 Statistical tests show that the gender bias in the recruitment process starts at the 'Assessment' stage of hiring.  
 At that stage a lot more females are getting rejected than is expected: this snowballs into the 1.38 bias favoring men over women at the offer stage.  
 
-What does this mean? Time to change the assessment process.  
+What does this mean?
+###### Time to change the assessment process.  
 
 Notice how the pre-screening verbal reasoning test has no inherent gender bias but also no predictive power in filtering successful from unsuccessful candidates. 
 What if the pre-screening verbal reasoning test became a more powerful player in the recruitment process?  
@@ -60,6 +61,6 @@ Using gender-neutral, predictive analytics to correlate the test scores of past 
 
 The best part? We can test the new assessment tool with tha data we already have by 
 
-Let's upgrade a tool we already have and use it in the assessment stage of recruitment as a powerful tool for selecting the best candidates and promoting gender fairness.
+###### Let's upgrade a tool we already have and use it in the assessment stage of recruitment as a powerful tool for selecting the best candidates and promoting gender fairness.
 
 
