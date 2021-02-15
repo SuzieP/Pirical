@@ -18,8 +18,8 @@
 
 
 ###### Gender Ratios at the Offer Stage  
-###### Actual: Female [109] to Male [90] to Prefer Not To Say [5]  
-###### Ideal:  Female [120] to Male [78] to Prefer Not To Say [6]
+> Actual: Female [109] to Male [90] to Prefer Not To Say [5]  
+> Ideal:  Female [120] to Male [78] to Prefer Not To Say [6]
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
 
@@ -42,9 +42,9 @@
 <iframe width="800" height="600" src="https://public.tableau.com/views/TestScorebyYear/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
 ###### OBSERVATIONS  
 
->*  The range of the test scores has stayed relatively constant across the years.  
->*  No gender bias in the pre-screening verbal reasoning test.  
->*  The test does not predict the candidate's success in the recruitment process.
+###### *  No change in test scores across years.  
+###### *  No gender bias in the pre-screening verbal reasoning test.  
+###### *  The test does not predict the candidate's success in the recruitment process.
   
 ### What can we do?
 
