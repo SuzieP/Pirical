@@ -43,11 +43,9 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 ###### OBSERVATIONS  
 
 * The range of the test scores has stayed relatively constant across the years.
-
 * No gender bias in the pre-screening verbal reasoning test.  
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/34.embed"></iframe>  
-   
-* The test does not predict the candidate's success in the recruitment process.
+   * The test does not predict the candidate's success in the recruitment process.
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/28.embed"></iframe>  
   
 ### Proposed Solutions
