@@ -9,14 +9,15 @@
 
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>  
 
+###### OBSERVATIONS  
+
 * Way more female candidates go through the graduate program's recruitment process: approximately 64 males go through recruitment for every 100 females.
-* The exact gender ratio of candidates for years 2016 to 2019 is: Female (59) to Male (38) to Prefer not to say (3).
 
 ### Gender Bias
 
-**Gender Ratios**
-* Actual: Female (109) to Male (90) to Prefer Not To Say (5)
-* Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
+**Gender Ratios at the Offer Stage**
+Actual: Female (109) to Male (90) to Prefer Not To Say (5)
+Ideal:  Female (120) to Male (78) to Prefer Not To Say (6)
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/32.embed"></iframe>
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plotly.com/~spap/40.embed"></iframe>
@@ -25,7 +26,7 @@
 
 Statistical tests confirm that the disparity in the ratios is a sign of gender bias and identify the following biases per stage:
 * Screening Stage : No significant gender bias 
-* Assessment Stage : Significant gender bias favoring males and discriminating against females.
+* Assessment Stage : Significant gender bias favoring males over females.
 * Interview Stage : Significant gender bias favoring females over males. 
 * Offer Stage: Significant gender bias favoring males over females.
 
@@ -38,6 +39,8 @@ Statistical tests confirm that the disparity in the ratios is a sign of gender b
 ### Pre-Screening Verbal Reasoning Test Scores
 
 <iframe width="800" height="800" src="https://public.tableau.com/views/TestScorebyYear/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"></iframe>
+
+###### OBSERVATIONS  
 
 * The range of the test scores has stayed relatively constant across the years.
 
